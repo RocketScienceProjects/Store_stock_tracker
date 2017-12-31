@@ -6,5 +6,5 @@ A simple Ruby program developed to show the usage of
 2. include
 3. extend
 4. included
-5. <del>Enumerable</del>
+5. ~~Enumerable~~
 ```
